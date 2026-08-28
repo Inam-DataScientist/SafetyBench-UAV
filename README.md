@@ -39,6 +39,12 @@ Worst-case safety margin over the corpus: `h_min = -0.213`. Level-3 labels
 coincide exactly with margin violations (`h <= 0`); there are 470 of each.
 
 ---
+## Dataset access
+
+The dataset is available for download at:  
+[https://drive.google.com/file/d/1El6AFVLi72daQ6DSXFUvWefcqTNmDEyz/view](https://drive.google.com/file/d/1El6AFVLi72daQ6DSXFUvWefcqTNmDEyz/view)
+
+--- 
 
 ## Contents
 
