@@ -50,6 +50,10 @@ Traditional safety evaluation often reduces the problem to a binary distinction:
 ```text
 SAFE ─────────────────────────────── UNSAFE
   0                                      1
+## 🌍 Environments
+
+The benchmark contains trajectories from five operating environments:
+
 | Environment   |
 | :------------ |
 | 🏢 Indoor     |
@@ -57,3 +61,6 @@ SAFE ─────────────────────────
 | 🌲 Forest     |
 | 🌾 Open Field |
 | 🌐 Dynamic    |
+## 🚨 Safety-Risk Distribution
+
+SafetyBench-UAV uses four graded risk levels:
