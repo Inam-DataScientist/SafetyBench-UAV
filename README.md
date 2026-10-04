@@ -50,6 +50,10 @@ Traditional safety evaluation often reduces the problem to a binary distinction:
 ```text
 SAFE ─────────────────────────────── UNSAFE
   0                                      1
+SafetyBench-UAV instead provides graded safety-risk labels together with a continuous safety margin:
+
+</div>
+
 ## 🌍 Environments
 
 The benchmark contains trajectories from five operating environments:
