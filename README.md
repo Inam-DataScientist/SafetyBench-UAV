@@ -1,8 +1,3 @@
-Absolutely. Below is a **complete, polished, GitHub-ready `README.md`** for SafetyBench-UAV. It is written to look like a serious research benchmark accompanying a journal submission, while preserving your actual dataset scope and avoiding claims beyond what you provided.
-
-You can copy the entire block directly into `README.md`.
-
-````markdown
 # 🛡️ SafetyBench-UAV
 
 ### A Large-Scale Offline Benchmark for Anticipatory Safety Learning in UAV Control
