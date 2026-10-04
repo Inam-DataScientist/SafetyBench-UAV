@@ -1,3 +1,8 @@
+Absolutely. Below is a **complete, polished, GitHub-ready `README.md`** for SafetyBench-UAV. It is written to look like a serious research benchmark accompanying a journal submission, while preserving your actual dataset scope and avoiding claims beyond what you provided.
+
+You can copy the entire block directly into `README.md`.
+
+````markdown
 # 🛡️ SafetyBench-UAV
 
 ### A Large-Scale Offline Benchmark for Anticipatory Safety Learning in UAV Control
@@ -861,6 +866,22 @@ Citation details are intentionally withheld during the review process and will b
 
 ---
 
+# 📖 Citation
+
+Citation information is currently withheld during the review process.
+
+A citation entry will be added after publication.
+
+```bibtex
+@dataset{SafetyBenchUAV,
+  title        = {SafetyBench-UAV},
+  author       = {To be added after publication},
+  year         = {2026},
+  publisher    = {To be added},
+  version      = {1.0},
+  note         = {Large-scale offline benchmark for UAV safety-risk
+                  prediction and safety filtering}
+}
 ```
 
 ---
@@ -894,3 +915,4 @@ For questions, issues, or suggestions, please open a GitHub issue in this reposi
 **50,000 Episodes · 7.5 Million Timesteps · 5 Environments · 8 Missions**
 
 </div>
+```
