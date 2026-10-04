@@ -215,9 +215,7 @@ denote the magnitude of the linear velocity.
 The altitude margin is
 
 $$
-h_{\mathrm{alt}}
-=
-\frac{\min(z-5,\;20-z)}{5}.
+h_{\mathrm{alt}}=\frac{\min(z-5,\;20-z)}{5}.
 $$
 
 This corresponds to the safe altitude interval
@@ -233,9 +231,7 @@ $$
 The velocity-related margin is
 
 $$
-h_{\mathrm{vel}}
-=
-\max\left(0,\frac{10-v}{5}\right).
+h_{\mathrm{vel}}=\max\left(0,\frac{10-v}{5}\right).
 $$
 
 The corresponding velocity limit is
